@@ -71,8 +71,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.9185832"
-     inkscape:cx="167.06072"
-     inkscape:cy="122.2231"
+     inkscape:cx="157.24947"
+     inkscape:cy="156.29091"
      inkscape:document-units="mm"
      inkscape:current-layer="g2127"
      inkscape:document-rotation="0"
@@ -249,7 +249,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Rahmen"
-     style="display:inline;opacity:1">
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#b3b3b3;stroke:#000000;stroke-width:1.01421;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect2013"
@@ -354,5 +355,24 @@
          y="15.39162"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;stroke-width:0.118324"
          id="tspan2117">New Tempalte</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:#ffffff;stroke-width:0.62292;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2133"
+       width="15.903465"
+       height="3.7432036"
+       x="51.353455"
+       y="56.269341"
+       ry="0.97816038" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.5809px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0895226"
+       x="59.271091"
+       y="59.455029"
+       id="text2131"><tspan
+         sodipodi:role="line"
+         id="tspan2129"
+         x="59.271091"
+         y="59.455029"
+         style="font-weight:bold;text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:0.0895226">mm999</tspan></text>
   </g>
 </svg>
