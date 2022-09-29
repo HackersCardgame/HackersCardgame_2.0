@@ -74,7 +74,7 @@
      inkscape:cx="167.06072"
      inkscape:cy="122.2231"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g2127"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -249,20 +249,19 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Rahmen"
-     style="display:inline;opacity:1"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:1">
     <rect
        style="opacity:1;fill:#b3b3b3;stroke:#000000;stroke-width:1.01421;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect2013"
        width="63.884151"
        height="11.764461"
        x="5.0579247"
-       y="7.1321588"
+       y="6.0738254"
        rx="5.345829"
        ry="4.4391685" />
     <g
        id="g1541"
-       transform="matrix(0.67605579,0,0,0.67605579,1.4670183,5.0525726)"
+       transform="matrix(0.67605579,0,0,0.67605579,1.4670183,3.9942392)"
        style="filter:url(#filter1393-2)">
       <g
          style="display:inline;enable-background:new"
@@ -343,16 +342,16 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.73297px;line-height:0.9;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118324;filter:url(#filter1393-2)"
        x="40.125671"
-       y="12.190279"
+       y="11.131947"
        id="text2119"><tspan
          sodipodi:role="line"
          id="tspan2115"
          x="40.125671"
-         y="12.190279"
+         y="11.131947"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;stroke-width:0.118324">Hackers Cardgame</tspan><tspan
          sodipodi:role="line"
          x="40.125671"
-         y="16.449951"
+         y="15.39162"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;stroke-width:0.118324"
          id="tspan2117">New Tempalte</tspan></text>
   </g>
