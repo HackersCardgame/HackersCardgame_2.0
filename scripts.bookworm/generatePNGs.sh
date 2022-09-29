@@ -36,7 +36,7 @@ for i in $(cat ./PNGs.txt)
   sleep 0.3
   xdotool key Tab Tab Tab KP_Space
   sleep 0.3
-  xdotool key Tab Tab Tab Tab Tab Tab Tab Tab Tab
+  xdotool key Tab Tab Tab Tab Tab Tab Tab Tab
   sleep 0.3
   xdotool type "1600"
   #xdotool click 1 if key-shortcuts do not work you can also use mouse commands
