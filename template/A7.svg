@@ -70,11 +70,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.9185832"
-     inkscape:cx="157.24947"
-     inkscape:cy="156.29091"
+     inkscape:zoom="5.8371665"
+     inkscape:cx="78.620378"
+     inkscape:cy="45.94487"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2127"
+     inkscape:current-layer="layer5"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -249,8 +249,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Rahmen"
-     style="display:inline;opacity:1"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:1">
     <rect
        style="opacity:1;fill:#b3b3b3;stroke:#000000;stroke-width:1.01421;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect2013"
@@ -261,57 +260,40 @@
        rx="5.345829"
        ry="4.4391685" />
     <g
-       id="g1541"
-       transform="matrix(0.67605579,0,0,0.67605579,1.4670183,3.9942392)"
-       style="filter:url(#filter1393-2)">
+       id="g2214"
+       transform="translate(0,0.36048472)">
       <g
-         style="display:inline;enable-background:new"
-         id="g4894"
-         transform="matrix(0.36769388,0,0,0.36769388,-4.1537058,-5.5849382)">
-        <g
-           transform="translate(113.92208,-21.892614)"
-           id="g7867"
-           style="display:inline;fill:#000000;enable-background:new">
-          <rect
-             ry="10.240001"
-             style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667;enable-background:new"
-             id="rect36536"
-             width="25.272779"
-             height="25.272779"
-             x="-80.44503"
-             y="56.485741"
-             rx="10.240001"
-             inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t10.png"
-             inkscape:export-xdpi="375.63586"
-             inkscape:export-ydpi="375.63586" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.921px;line-height:18.7007px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667;enable-background:new"
-             x="-67.80864"
-             y="78.444435"
-             id="text37440"><tspan
-               sodipodi:role="line"
-               id="tspan37438"
-               x="-67.80864"
-               y="78.444435"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.4444px;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.06667">☠</tspan></text>
-        </g>
-        <g
-           transform="translate(0.09821244,0.2221184)"
-           id="g4882" />
+         id="g1541"
+         transform="matrix(0.67605579,0,0,0.67605579,1.4670183,3.9942392)"
+         style="filter:url(#filter1393-2)">
+        <rect
+           style="opacity:1;fill:#000000;stroke:none;stroke-width:0.705569;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect2207"
+           width="7.7066669"
+           height="7.8093462"
+           x="7.8189383"
+           y="7.3389726"
+           ry="1.9672754" />
+        <rect
+           style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.638905;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect2205"
+           width="6.9785237"
+           height="7.0715017"
+           x="8.1830101"
+           y="7.7078948"
+           ry="1.7814027" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.41919px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18548"
+           x="9.6844444"
+           y="13.826319"
+           id="text2177"><tspan
+             sodipodi:role="line"
+             id="tspan2175"
+             x="9.6844444"
+             y="13.826319"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.18548">☠</tspan></text>
       </g>
-      <rect
-         ry="3.5165038"
-         rx="3.661792"
-         y="7.1263366"
-         x="8.1471939"
-         height="9.301053"
-         width="9.301053"
-         id="rect917-6"
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/m27.png"
-         inkscape:export-xdpi="363.92001"
-         inkscape:export-ydpi="363.92001" />
     </g>
     <rect
        style="display:inline;fill:#000000;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
