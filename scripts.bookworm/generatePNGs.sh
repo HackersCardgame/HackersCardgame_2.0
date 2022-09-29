@@ -17,7 +17,7 @@ fi
 
 clear
 killall clipit
-pngpath=$(dirname $(pwd))/png
+pngpath="$(dirname $(pwd))"/png
 mkdir -p $pngpath/$1/
 find ../cards/$1 -name "*.svg" >./PNGs.txt
 
