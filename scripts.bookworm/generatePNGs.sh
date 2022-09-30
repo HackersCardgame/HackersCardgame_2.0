@@ -34,7 +34,7 @@ for i in $(cat ./PNGs.txt)
   sleep 2
   xdotool key Ctrl+Shift+e
   sleep 0.3
-  xdotool key Tab Tab Tab KP_Space
+  xdotool key Tab Tab KP_Space
   sleep 0.3
   xdotool key Tab Tab Tab Tab Tab Tab Tab Tab
   sleep 1
