@@ -7,6 +7,7 @@ ha Hacking
 hw hardware
 pr Programmieren
 dp Design Patterns
+in informatik
 
 ma Medizin Allgemein
 ne Neurologie

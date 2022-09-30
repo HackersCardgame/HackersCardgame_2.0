@@ -1,8 +1,16 @@
+../cards/DE/ne11.svg
+../cards/DE/in03.svg
 ../cards/DE/ne08.svg
+../cards/DE/ne10.svg
 ../cards/DE/ne07.svg
+../cards/DE/in01.svg
+../cards/DE/ne12.svg
 ../cards/DE/ne05.svg
 ../cards/DE/ne06.svg
 ../cards/DE/ne02.svg
 ../cards/DE/ne03.svg
+../cards/DE/in02.svg
 ../cards/DE/ne04.svg
 ../cards/DE/ne01.svg
+../cards/DE/ne13.svg
+../cards/DE/ne09.svg
