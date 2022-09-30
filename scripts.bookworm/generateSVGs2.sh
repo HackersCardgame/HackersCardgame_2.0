@@ -63,7 +63,7 @@ then
 		if (( $counter % 8 == 0 ))
 		then 
 			sleep 1
-			xdotool key Ctrl+Alt+a
+			xdotool key Ctrl+a
 
 			sleep 0.5
 			xdotool key Alt+o
@@ -71,19 +71,20 @@ then
 			sleep 0.5
 			xdotool key End KP_Enter
 			sleep 0.5
-			xdotool key Tab Tab
+			xdotool key Tab
 			sleep 0.2
 			xdotool type '2'
 			sleep 0.2
-			xdotool key Tab Tab Tab
+			xdotool key Tab Tab
 			sleep 0.2
-			#xdotool type '4'
+			xdotool type '4'
+			xdotool key KP_Delete
 			sleep 0.2
 			xdotool key Tab Tab Tab
 			sleep 0.2
 			xdotool type '0'
 			sleep 0.2
-			xdotool key Tab
+			xdotool key Tab Tab
 			sleep 0.2
 			xdotool type '0'
 			sleep 0.2
