@@ -21,8 +21,8 @@ pngpath=$(dirname $(pwd))/png
 mkdir -p $pngpath/$1/
 find ../cards/$1 -name "*.svg" >./PNGs.txt
 
-cp m41*.png $pngpath/$1/
-cp README.png $pngpath/$1/
+#cp m41*.png $pngpath/$1/
+#cp README.png $pngpath/$1/
 
 counter=0
 
@@ -38,7 +38,7 @@ for i in $(cat ./PNGs.txt)
   sleep 0.3
   xdotool key Tab Tab Tab KP_Space
   sleep 0.3
-  xdotool key Tab Tab Tab Tab Tab Tab Tab Tab Tab
+  xdotool key Tab Tab Tab Tab Tab Tab Tab Tab
   sleep 0.3
   xdotool type "1600"
   #xdotool click 1 if key-shortcuts do not work you can also use mouse commands
