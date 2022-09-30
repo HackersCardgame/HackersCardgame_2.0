@@ -32,7 +32,7 @@ then
 	                cp ./templateA4.svg ../assembled/$1/A4/
 			inkscape ../assembled/$1/A4/templateA4.svg &
 			file=$(basename $i .svg)
-			sleep 1
+			sleep 3
 		else
 			file=$file-$(basename $i .svg)
 		fi
@@ -115,8 +115,8 @@ then
 			#  exit 0
 			xdotool key KP_Enter
 			sleep 1.5
-			xdotool key Alt+f
-			xdotool key q
+			#xdotool key Alt+f
+			#xdotool key q
 		fi
 		echo $file
 		#git add -A && git commit -m "$file"
