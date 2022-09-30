@@ -52,11 +52,11 @@ for i in $(cat ./PNGs.txt)
   xdotool type $(basename $i .svg)
   sleep 0.3
   xdotool type '.png'
-  sleep 0.3
+  sleep 1
   xdotool key KP_Enter
-  sleep 0.3
+  sleep 1
   #xdotool key Alt+e
-  sleep 2
+  sleep 3
   killall inkscape
   git add -A && git commit -m "$i"
 done
