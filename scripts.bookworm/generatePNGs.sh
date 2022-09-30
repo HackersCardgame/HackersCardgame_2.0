@@ -64,5 +64,5 @@ for i in $(cat ./PNGs.txt)
 done
 
 
-./cleanup.ch
+./cleanup.sh
 
