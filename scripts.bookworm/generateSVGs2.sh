@@ -122,6 +122,7 @@ then
 		fi
 		echo $file
 		git add -A && git commit -m "$file"
+		killall inkscape
 	done
 
 elif [ "$2" = "A6" ]
