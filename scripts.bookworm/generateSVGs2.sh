@@ -57,11 +57,10 @@ then
 		echo $(basename $i)
 		wmctrl -a $(basename $i)
 		sleep 1
-		xdotool key Alt+f
-		xdotool key q
 
 		if (( $counter % 8 == 0 ))
-		then 
+		then
+			wmctrl -a template	
 			sleep 1
 			xdotool key Ctrl+Alt+a
 
@@ -120,7 +119,8 @@ then
 			xdotool key q
 		fi
 		echo $file
-		git add -A && git commit -m "$file"
+		#git add -A && git commit -m "$file"
+		killall inkscape
 	done
 
 elif [ "$2" = "A6" ]
