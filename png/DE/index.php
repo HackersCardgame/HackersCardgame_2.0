@@ -127,8 +127,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 <div class="text">
 <h1>Hackers Cardgame</h1>
-<h2>If the System now loops "<font color=tomato class="blink">Your girl is being raped</font>" then you are a targeted individual and under surveillance. If a specific card triggers you also, then it is possible that you must confess first if you did similar things, or satan would like to prevent, that you learn this move, so that he/she can further abuse this move against you. For me as an Autistic i told them that I would commit suicide if they raped me they also know that they would be murderer and they would be in much a worse situation in their Panopticon</b><br><br>
-<a href="https://github.com/braindef/HackersCardgame21"><img src="./README.png"></a>
+<a href="https://github.com/braindef/HackersCardgame_2.0">SOURCE</a>
 <br><br>
 
 please respect the <a href="../../LICENSE">License</a><br>
@@ -136,7 +135,6 @@ please respect the <a href="../../LICENSE">License</a><br>
 <br>
 <h2>Never Play <font color=red>Red Team</font> help out with <font color="#77f">Blue Team</font> and save the World</h2>
 <br>
-Some from the older Generation would like that the young people would become red team, but they still have the biggest surveillance system, so if a young would have success to attack satans network they would pop the legal system and force the young hacker to work for satans black world. So this cards are meant to be some sort of deffence cards to learn from the dirty tricks they use(d) against me.<br><br>
 
 <br>
 <font class=monospace color=green size=4em><b>If one of the two kids that normally both promise to be true to each other forever breaks the promise, they can easily break your mind but also the mind of the girl or boy you betrayed. If male && female, male && male, female && female or unicorn-pony && spike the baby-dragon would be the decision of both and not the decision of someone else. Choose wisely, once but only once!</b></font> <font class=monospace color=red size=4em>If the parents have pedophile tendencies they would try to separate the equal aged couple.</font>
@@ -144,10 +142,6 @@ Some from the older Generation would like that the young people would become red
 Maybe i should call my paranoja a good situational awareness like Andy does...
 <br>
 <br>
-Source:<br>
-<a href="https://github.com/braindef/HackersCardgame22">https://github.com/braindef/HackersCardgame22</a><br>
-<a href="https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/">https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/</a>
-<br><br>
 
 <h3>Printing Templates:</h3>
 <a href="https://github.com/braindef/HackersCardgame21/tree/master/pdf/EN/A4">Github (PDF)</a>
