@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="11.873288"
-     inkscape:cx="126.29189"
-     inkscape:cy="162.3813"
+     inkscape:zoom="1.0494603"
+     inkscape:cx="129.11398"
+     inkscape:cy="305.87149"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <defs
      id="defs2">
     <rect
@@ -55,7 +55,10 @@
        x="4.5"
        y="5.5498133"
        rx="5.1956244"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <rect
        style="fill:#000000;stroke:none;stroke-width:0.470152"
        id="rect964"
@@ -64,7 +67,10 @@
        x="6.5741215"
        y="7.6385288"
        rx="3.9244702"
-       ry="4.0016785" />
+       ry="4.0016785"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <rect
        style="fill:#d7d7f4;stroke:none;stroke-width:0.475741"
        id="rect1717"
@@ -72,103 +78,109 @@
        height="41.42675"
        x="8.546648"
        y="54.198826"
-       ry="3.0964251" />
+       ry="3.0964251"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1.3068987,1.6405857)"
        id="text17085"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect17087);fill:#000000;fill-opacity:1;stroke:none"
        x="0"
-       y="0"><tspan
+       y="0"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37"><tspan
          x="31.304688"
          y="212.04492"
-         id="tspan61046"><tspan
+         id="tspan98394"><tspan
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61040">Der </tspan><tspan
+           id="tspan98388">Der </tspan><tspan
            dx="1.1986599"
            style="font-weight:bold"
-           id="tspan61042">RAM</tspan><tspan
+           id="tspan98390">RAM</tspan><tspan
            dx="0 0 0 0 0 1.1986618 0 0 1.1986542 0 0 0 1.1986656 0 0 0 0 0 0 0 0 0 0 0 0 1.1986542 0 0 0 1.1986465 0 0 1.1986618"
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61044">-DAC im C64 HeimComputer war so zu </tspan></tspan><tspan
+           id="tspan98392">-DAC im C64 HeimComputer war so zu </tspan></tspan><tspan
          x="31.304688"
          y="222.04492"
-         id="tspan61050"><tspan
+         id="tspan98398"><tspan
            dx="0 0 0 0 0 0 0.59570312 0 0 0 0.59570312 0 0 0 0 0 0 0 0 0 0 0 0 0.59570312 0 0 0.59570312 0 0 0 0.59570312 0 0 0 0.59570312"
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61048">sagen die Grafikkarte. Da ist ein Speicher </tspan></tspan><tspan
+           id="tspan98396">sagen die Grafikkarte. Da ist ein Speicher </tspan></tspan><tspan
          x="31.304688"
          y="232.04492"
-         id="tspan61054"><tspan
+         id="tspan98402"><tspan
            dx="0 0 0 0 0 2.5747776 0 0 0 2.5747795 0 0 0 0 0 2.5747757 0 0 0 0 0 2.5747833 0 0 0 0 0 0 0 2.5747833 0 0 0 0 2.5747681 0 0 2.5747833"
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61052">drin für jedes Pixel welches dann am TV </tspan></tspan><tspan
+           id="tspan98400">drin für jedes Pixel welches dann am TV </tspan></tspan><tspan
          x="31.304688"
          y="242.04492"
-         id="tspan61058"><tspan
+         id="tspan98406"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 2.641407 0 0 0 0 0 2.6414108 0 0 0 0 0 2.6414032 0 0 0 0 0 2.6414032 0 0 0 0 0 0 2.6414032"
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61056">dargestellt wird. Diese Pixel werden von </tspan></tspan><tspan
+           id="tspan98404">dargestellt wird. Diese Pixel werden von </tspan></tspan><tspan
          x="31.304688"
          y="252.04492"
-         id="tspan61062"><tspan
+         id="tspan98410"><tspan
            dx="0 0 0 0 0 2.641407 0 0 0 0 0 2.641407 0 0 0 0 2.6414032 0 0 0 0 0 2.6414108 0 0 0 0 0 0 2.6414032"
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61060">oben Links nach unten Rechts zeilenweise </tspan></tspan><tspan
+           id="tspan98408">oben Links nach unten Rechts zeilenweise </tspan></tspan><tspan
          x="31.304688"
          y="262.04492"
-         id="tspan61066"><tspan
+         id="tspan98414"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0.71484375 0 0 0 0 0.71484375 0 0 0.71484375 0 0 0 0.71484375 0 0 0 0 0 0 0 0 0 0 0 0.71484375"
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61064">ausgelesen, dann in ein RGB-HV-Sync Signal </tspan></tspan><tspan
+           id="tspan98412">ausgelesen, dann in ein RGB-HV-Sync Signal </tspan></tspan><tspan
          x="31.304688"
          y="272.04492"
-         id="tspan61070"><tspan
+         id="tspan98418"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 1.0488281 0 0 0 1.0488281 0 0 0 0 1.0488281 0 0 1.0488281 0 0 0 1.0488281 0 0 0 0 0 1.0488281 0 0 1.0488281 0 0 0 1.0488281"
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61068">übersetzt und dann zB per Scart an den TV </tspan></tspan><tspan
+           id="tspan98416">übersetzt und dann zB per Scart an den TV </tspan></tspan><tspan
          x="31.304688"
          y="282.04492"
-         id="tspan61074"><tspan
+         id="tspan98422"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 152.88281"
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61072">geschickt. 
+           id="tspan98420">geschickt. 
 </tspan></tspan><tspan
          x="31.304688"
          y="292.04492"
-         id="tspan61078"><tspan
+         id="tspan98426"><tspan
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61076">
+           id="tspan98424">
 </tspan></tspan><tspan
          x="31.304688"
          y="302.04492"
-         id="tspan61082"><tspan
+         id="tspan98430"><tspan
            dx="0 0 0 0 0 0 0 0 21.052734 0 0 0 0 0 0 0 0 0 0 0 0 21.052734"
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61080">Heutige GrafikKarten funktionieren </tspan></tspan><tspan
+           id="tspan98428">Heutige GrafikKarten funktionieren </tspan></tspan><tspan
          x="31.304688"
          y="312.04492"
-         id="tspan61086"><tspan
+         id="tspan98434"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 4.5058594 0 0 0 4.5058594 0 0 0 0 0 0 0 0 0 0 0 0 4.5058594 0 0 0 4.5058594"
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61084">Komplizierter und mittlerweile oft auch </tspan></tspan><tspan
+           id="tspan98432">Komplizierter und mittlerweile oft auch </tspan></tspan><tspan
          x="31.304688"
          y="322.04492"
-         id="tspan61090"><tspan
+         id="tspan98438"><tspan
            dx="0 0 0 0 0 0 0 0 7.4578133 0 0 0 0 7.4578171 0 0 7.4578094 0 0 0 7.4578171 0 0 0 0 0 0 0 0 0 0 0 0 7.4578094"
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61088">Digital aber um das Grundkonzept zu </tspan></tspan><tspan
+           id="tspan98436">Digital aber um das Grundkonzept zu </tspan></tspan><tspan
          x="31.304688"
          y="332.04492"
-         id="tspan61094"><tspan
+         id="tspan98442"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 16.546875 0 0 0 16.546875 0 0 0 0 16.546875 0 0 0 16.546875"
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61092">verstehen ist dies ein tolles </tspan></tspan><tspan
+           id="tspan98440">verstehen ist dies ein tolles </tspan></tspan><tspan
          x="31.304688"
          y="342.04492"
-         id="tspan61098"><tspan
+         id="tspan98446"><tspan
            style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
-           id="tspan61096">Anschauungsobjekt.
+           id="tspan98444">Anschauungsobjekt.
 </tspan></tspan></text>
     <rect
        style="display:inline;fill:#ffd5d5;stroke:none;stroke-width:0.498943"
@@ -178,7 +190,10 @@
        x="8.3866177"
        y="17.166599"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <image
        width="57.226761"
        height="29.870672"
@@ -15332,7 +15347,10 @@ gg==
 "
        id="image14782"
        x="8.3866177"
-       y="22.295927" />
+       y="22.295927"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <rect
        style="display:inline;fill:#ffd5d5;stroke:none;stroke-width:0.191006"
        id="rect14786"
@@ -15341,7 +15359,10 @@ gg==
        x="8.3866177"
        y="17.166599"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <image
        width="22.618711"
        height="16.797504"
@@ -16443,7 +16464,10 @@ AAAAAMDo/wGR7hUJ7EvnAgAAAABJRU5ErkJggg==
 "
        id="image31692"
        x="8.3866177"
-       y="35.369095" />
+       y="35.369095"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.3;stroke-linecap:round"
        id="rect60583"
@@ -16451,7 +16475,10 @@ AAAAAMDo/wGR7hUJ7EvnAgAAAABJRU5ErkJggg==
        height="4.6586785"
        x="27.405439"
        y="35.395809"
-       ry="0.6954968" />
+       ry="0.6954968"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -16466,7 +16493,10 @@ AAAAAMDo/wGR7hUJ7EvnAgAAAABJRU5ErkJggg==
        x="7.4390769"
        y="8.5463743"
        rx="3.6614914"
-       ry="3.440743" />
+       ry="3.440743"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <rect
        style="display:inline;fill:#f2f2f2;stroke:none;stroke-width:0.414257"
        id="rect1172"
@@ -16475,7 +16505,10 @@ AAAAAMDo/wGR7hUJ7EvnAgAAAABJRU5ErkJggg==
        x="8.5187178"
        y="9.6336737"
        rx="0"
-       ry="2.3537788" />
+       ry="2.3537788"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <rect
        style="display:inline;fill:#000000;stroke:none;stroke-width:0.404665"
        id="rect2207"
@@ -16483,13 +16516,19 @@ AAAAAMDo/wGR7hUJ7EvnAgAAAABJRU5ErkJggg==
        height="4.217185"
        x="10.637415"
        y="50.920574"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.64583px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="37.531517"
        y="53.768482"
-       id="text3050"><tspan
+       id="text3050"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37"><tspan
          sodipodi:role="line"
          id="tspan3048"
          style="font-size:2.64583px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
@@ -16503,13 +16542,19 @@ AAAAAMDo/wGR7hUJ7EvnAgAAAABJRU5ErkJggg==
        x="46.305717"
        y="44.931896"
        ry="0"
-       rx="1.7786642" />
+       rx="1.7786642"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290946"
        x="55.483902"
        y="48.674988"
-       id="text27004-5"><tspan
+       id="text27004-5"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37"><tspan
          sodipodi:role="line"
          id="tspan27002-6"
          style="font-weight:bold;font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.290946"
@@ -16522,7 +16567,10 @@ AAAAAMDo/wGR7hUJ7EvnAgAAAABJRU5ErkJggg==
        height="9.4695749"
        x="9.8518229"
        y="11.440212"
-       ry="1.414894" />
+       ry="1.414894"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <rect
        style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.499999"
        id="rect20724"
@@ -16530,13 +16578,19 @@ AAAAAMDo/wGR7hUJ7EvnAgAAAABJRU5ErkJggg==
        height="8.4072285"
        x="10.34414"
        y="11.971386"
-       ry="1.0408186" />
+       ry="1.0408186"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.93198px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1983"
        x="12.565024"
        y="18.947227"
-       id="text20124"><tspan
+       id="text20124"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37"><tspan
          sodipodi:role="line"
          id="tspan20122"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.1983"
@@ -16552,17 +16606,20 @@ AAAAAMDo/wGR7hUJ7EvnAgAAAABJRU5ErkJggg==
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:0.9;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="42.759911"
-       y="13.850389"
-       id="text28351"><tspan
+       y="15.437887"
+       id="text28351"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/el02.png"
+       inkscape:export-xdpi="622.37"
+       inkscape:export-ydpi="622.37"><tspan
          sodipodi:role="line"
          style="font-weight:bold;font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="42.759911"
-         y="13.850389"
+         y="15.437887"
          id="tspan2151">C64 RAM-DAC</tspan><tspan
          sodipodi:role="line"
          style="font-weight:bold;font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="42.759911"
-         y="17.660385"
+         y="19.247885"
          id="tspan18963">( GrafikKarte)</tspan></text>
   </g>
 </svg>
