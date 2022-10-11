@@ -108,21 +108,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 </script>
 
 
-<!-- The Modal Dialogbox selecting pawn replacement -->
-<div id="warning" class="modal">
-  <div class="modalContent">
-    <span class="close">&times;</span>
-    <p><font size=20em><b>WARNING</b></font></p>
-    <p><font size=15em><b>HackersCardgame.ch is not a Game</font></p><br>
-<font size=10em>no joke: <a href="./m44.jpg">m44.jpg</a> <a href="./m32.jpg">m32.jpg</a></font><br><br>
-    <font color=black size=5em>HackersCardgame cards are learning cards to defend against Psychological Warfare, i try to LEAK attacks agaist me to make it easier for others if <font color=purple>satan@militaryDicatorship</font> uses the same attacking vectors against others; to quote <font color=green>Julian Assange</font>: see <a href="./m173.jpg">m173 </a><br>
-<font size=4em>if you ended up here it's maybe already to late and you are already Targeted Individual, if not they you really really don't want to be here. If you are already targeted maybe this informations helps you a bit to defend against satan. <font color=red>If you are already a Targeted Individual: having a MEDIC nearby would definitely be a prerequisit. </font>I guess they have also some sort of <font color=tomato>MetaSploit-Framwork for Psychological Warfare</font>, and personalized "WahrnehmungsSchwelle"-DataBases, see Chaos Computer Club :: rC3 :: "<font color=gray>Muss man sich vor unterschwelliger Beeinflussung fürchten?</font>" </font> <br><br><font color=tomato>(you may press escape now,<font color=cyan> you can not continue with the handy)</font></font></font></p>
-    <button id=s0 onClick="transformationFigure='♖'; continueTransformation()">♜</button>
-    <button id=s1>♞</button>
-    <button id=s2>♝</button>
-    <button id=s3>♛</button>
-  </div>
-</div>
 
 
 <div class="text">
@@ -134,9 +119,6 @@ please respect the <a href="../../LICENSE">License</a><br>
 
 <br>
 <h2>Never Play <font color=red>Red Team</font> help out with <font color="#77f">Blue Team</font> and save the World</h2>
-<br>
-
-<br>
 <font class=monospace color=green size=4em><b>If one of the two kids that normally both promise to be true to each other forever breaks the promise, they can easily break your mind but also the mind of the girl or boy you betrayed. If male && female, male && male, female && female or unicorn-pony && spike the baby-dragon would be the decision of both and not the decision of someone else. Choose wisely, once but only once!</b></font> <font class=monospace color=red size=4em>If the parents have pedophile tendencies they would try to separate the equal aged couple.</font>
 <br><br>
 Maybe i should call my paranoja a good situational awareness like Andy does...
@@ -144,37 +126,13 @@ Maybe i should call my paranoja a good situational awareness like Andy does...
 <br>
 
 <h3>Printing Templates:</h3>
-<a href="https://github.com/braindef/HackersCardgame21/tree/master/pdf/EN/A4">Github (PDF)</a>
+<a href="https://github.com/HackersCardgame/HackersCardgame_2.0/tree/master/pdf/DE/A4">Github (PDF)</a>
 <br>
-<a href="../../pdf/EN/A4/">local (PDF)</a><br>
+<a href="../../pdf/DE/A4/">local (PDF)</a><br>
 Printing the cards gives you a offline copy, cutting them out makes you focus ~1 Min per card that could be useful for your Learning Curve.
 <br><br>
 <!-- and of course nobody would have the stupid idea to place microdots in such a repository https://en.wikipedia.org/wiki/Microdot-->
 
-<br>
-<!--
-<audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
-    <source src="../../music/SpaceTripExtended.mp3" type="audio/mp3" />
-    Your browser does not support the video tag or the file format of this video.
-</audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
-    <source src='../../music/landev_--_mind_sciences.mp3' type="audio/mp3" />
-    Your browser does not support the video tag or the file format of this video.
-</audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
-    <source src="../../music/landev_game.mp3" type="audio/mp3" />
-    Your browser does not support the video tag or the file format of this video.
-</audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
-    <source src="../../music/landev_horizon.mp3" type="audio/mp3" />
-    Your browser does not support the video tag or the file format of this video.
-</audio>
-</audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
-    <source src="../../music/landev_jba.mp3" type="audio/mp3" />
-    Your browser does not support the video tag or the file format of this video.
-</audio>
-</audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
-    <source src="../../music/landev_violent.mp3" type="audio/mp3" />
-    Your browser does not support the video tag or the file format of this video.
-</audio>
-</div>
 <div class="cards">
 <p>
 
@@ -235,11 +193,6 @@ foreach($files as $file)
 </div>
 <p>
 <div class="text">
-Possibly you would get in serious trouble with those people, that abuses this sort of technology if you would fork this repo <font color=red>*INSERT: "marc is insane"-stimulus on t1 card*</font> but if eg. 1000 <font color=red>*INSERT: "marc has delusions of grandeur"-stimulus on t1 card*</font> would fork at the same time, they would possibly not have enough manpower to target all people that forked it; maybe. Additionally [I] suggest that all people creates their own cards / deck / repo without using the same images or exact the same text of my repository. src1 Card: It would spam the people abusing it *INSERT: <font color=red>against you!!!</font> <font color=yellow>(psychological warfare)</font>* because they would have to keep eg 1000 people in check. Having different decks would make the people that abuses this sort of technolgoy to loose more check-moves *<font color=lightgreen>my insert: some sort of reveres-psychological warfare :D</font>*
-<br><br>
-If you are crazy enough to <font color=yellow>become a part of mind-control-hacking community</font> take at least 1 equal aged friend, never do such things alone, use as much different technologies as you can, eg. inkscape, illustrator, html5, demoscene videos, painted art, music ... maybe you have even better ideas...
-<br><br>
-And please forgive my bad English, im not a native speake, further since im subject to <strike>12h</strike> 16h electronical / psychological warfare every day i don't have that much time.
 
 <br>
 <br>
