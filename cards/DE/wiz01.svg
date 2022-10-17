@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="2.0989207"
      inkscape:cx="33.112256"
-     inkscape:cy="127.68467"
+     inkscape:cy="203.91433"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
@@ -55,7 +55,10 @@
        x="4.5"
        y="5.5498133"
        rx="5.1956244"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001" />
     <rect
        style="fill:#000000;stroke:none;stroke-width:0.470152"
        id="rect964"
@@ -64,7 +67,10 @@
        x="6.5741215"
        y="7.6385288"
        rx="3.9244702"
-       ry="4.0016785" />
+       ry="4.0016785"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001" />
     <rect
        style="vector-effect:none;fill:#122d4b;fill-opacity:1;stroke:#09213a;stroke-width:2.07324;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect826"
@@ -76,7 +82,7 @@
        ry="1.2238437"
        inkscape:export-xdpi="354.51001"
        inkscape:export-ydpi="354.51001"
-       inkscape:export-filename="/home/marc/text886.png" />
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png" />
     <image
        y="40.449505"
        x="12.622987"
@@ -87,7 +93,7 @@
        width="48.754021"
        inkscape:export-xdpi="354.51001"
        inkscape:export-ydpi="354.51001"
-       inkscape:export-filename="/home/marc/text886.png" />
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png" />
     <rect
        style="vector-effect:none;fill:#122d4b;fill-opacity:1;stroke:none;stroke-width:6.44437;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect831"
@@ -99,13 +105,16 @@
        ry="0"
        inkscape:export-xdpi="354.51001"
        inkscape:export-ydpi="354.51001"
-       inkscape:export-filename="/home/marc/text886.png" />
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.90031px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0975078"
        x="17.526905"
        y="23.343807"
-       id="text835" />
+       id="text835"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot837"
@@ -113,7 +122,7 @@
        transform="matrix(0.10418424,0,0,0.10418424,-5.3850272,13.743836)"
        inkscape:export-xdpi="354.51001"
        inkscape:export-ydpi="354.51001"
-       inkscape:export-filename="/home/marc/text886.png"><flowRegion
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"><flowRegion
          id="flowRegion839"><rect
            id="rect841"
            width="481.13611"
@@ -140,7 +149,7 @@
        id="text863"
        inkscape:export-xdpi="354.51001"
        inkscape:export-ydpi="354.51001"
-       inkscape:export-filename="/home/marc/text886.png"><tspan
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"><tspan
          sodipodi:role="line"
          id="tspan861"
          x="44.425339"
@@ -151,9 +160,12 @@
        style="font-style:normal;font-weight:normal;font-size:3.90031px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0975078"
        x="49.425964"
        y="29.054993"
-       id="text886" />
+       id="text886"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001" />
     <flowRoot
-       inkscape:export-filename="/home/marc/text886.png"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
        inkscape:export-ydpi="354.51001"
        inkscape:export-xdpi="354.51001"
        transform="matrix(0.10418424,0,0,0.10418424,-3.9392151,13.943176)"
@@ -183,7 +195,7 @@
        transform="matrix(0.10418424,0,0,0.10418424,-3.9392151,13.86876)"
        inkscape:export-xdpi="354.51001"
        inkscape:export-ydpi="354.51001"
-       inkscape:export-filename="/home/marc/text886.png"><flowRegion
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"><flowRegion
          id="flowRegion916"><rect
            id="rect914"
            width="481.13611"
@@ -201,7 +213,7 @@
          id="flowPara926"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ricasso;-inkscape-font-specification:Ricasso;text-align:justify;text-anchor:start;fill:#ffffff" /></flowRoot>
     <rect
-       inkscape:export-filename="/home/marc/text886.png"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
        inkscape:export-ydpi="354.51001"
        inkscape:export-xdpi="354.51001"
        ry="1.2238437"
@@ -219,24 +231,30 @@
        height="8.7592974"
        x="8.546648"
        y="86.86628"
-       ry="3.3494549" />
+       ry="3.3494549"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,2.6603418,34.927242)"
        id="text17085"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect17087);fill:#000000;fill-opacity:1;stroke:none"
        x="0"
-       y="0"><tspan
+       y="0"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001"><tspan
          x="31.304688"
          y="212.04492"
-         id="tspan36430"><tspan
+         id="tspan45988"><tspan
            style="font-family:mono;-inkscape-font-specification:mono"
-           id="tspan36428">normally it's coordinatet to dDOS medics, </tspan></tspan><tspan
+           id="tspan45986">normally it's coordinatet to dDOS medics, </tspan></tspan><tspan
          x="31.304688"
          y="222.04492"
-         id="tspan36434"><tspan
+         id="tspan45992"><tspan
            style="font-family:mono;-inkscape-font-specification:mono"
-           id="tspan36432">whitehats, autistics, and all that help</tspan></tspan></text>
+           id="tspan45990">whitehats, autistics, and all that help</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -251,7 +269,10 @@
        x="7.4390769"
        y="8.5463743"
        rx="3.6614914"
-       ry="3.440743" />
+       ry="3.440743"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001" />
     <rect
        style="display:inline;fill:#f2f2f2;stroke:none;stroke-width:0.414257"
        id="rect1172"
@@ -260,7 +281,10 @@
        x="8.5187178"
        y="9.6336737"
        rx="0"
-       ry="2.3537788" />
+       ry="2.3537788"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001" />
     <rect
        style="display:inline;fill:#000000;stroke:none;stroke-width:0.404665"
        id="rect2207"
@@ -268,13 +292,19 @@
        height="4.217185"
        x="10.637415"
        y="84.258102"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.64583px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="37.531517"
        y="87.10601"
-       id="text3050"><tspan
+       id="text3050"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001"><tspan
          sodipodi:role="line"
          id="tspan3048"
          style="font-size:2.64583px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
@@ -288,13 +318,19 @@
        x="44.718216"
        y="78.798592"
        ry="0"
-       rx="1.7786642" />
+       rx="1.7786642"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290946"
        x="53.8964"
        y="82.541687"
-       id="text27004-5"><tspan
+       id="text27004-5"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001"><tspan
          sodipodi:role="line"
          id="tspan27002-6"
          style="font-weight:bold;font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.290946"
@@ -307,7 +343,10 @@
        height="9.4695749"
        x="9.8518229"
        y="11.440212"
-       ry="1.414894" />
+       ry="1.414894"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001" />
     <rect
        style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.499999"
        id="rect20724"
@@ -315,13 +354,19 @@
        height="8.4072285"
        x="10.34414"
        y="11.971386"
-       ry="1.0408186" />
+       ry="1.0408186"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.93198px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1983"
        x="12.565024"
        y="18.947227"
-       id="text20124"><tspan
+       id="text20124"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001"><tspan
          sodipodi:role="line"
          id="tspan20122"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.1983"
@@ -338,7 +383,10 @@
        style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:0.9;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="41.859241"
        y="12.633657"
-       id="text28351"><tspan
+       id="text28351"
+       inkscape:export-filename="/home/marc/HackersCardgame2.0/png/DE/wiz01.png"
+       inkscape:export-xdpi="354.51001"
+       inkscape:export-ydpi="354.51001"><tspan
          sodipodi:role="line"
          style="font-weight:bold;font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="41.859241"
