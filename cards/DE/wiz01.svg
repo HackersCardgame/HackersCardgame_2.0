@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4.1978414"
-     inkscape:cx="122.56299"
-     inkscape:cy="183.90404"
+     inkscape:zoom="2.0989207"
+     inkscape:cx="33.112256"
+     inkscape:cy="127.68467"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
@@ -134,7 +134,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ricasso;-inkscape-font-specification:Ricasso;text-align:center;text-anchor:middle;fill:#ffffff" /></flowRoot>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.00893px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:0.184268;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:3.00893px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:#808000;stroke-width:0.184268;stroke-miterlimit:4;stroke-dasharray:none"
        x="44.425339"
        y="54.918381"
        id="text863"
@@ -145,7 +145,7 @@
          id="tspan861"
          x="44.425339"
          y="54.918381"
-         style="font-weight:bold;fill:#333333;stroke:#ffffff;stroke-width:0.184268;stroke-miterlimit:4;stroke-dasharray:none">HOLD ON</tspan></text>
+         style="font-weight:bold;fill:#ffff00;stroke:#808000;stroke-width:0.184268;stroke-miterlimit:4;stroke-dasharray:none">HOLD ON</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.90031px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0975078"
@@ -229,14 +229,14 @@
        y="0"><tspan
          x="31.304688"
          y="212.04492"
-         id="tspan36303"><tspan
+         id="tspan36430"><tspan
            style="font-family:mono;-inkscape-font-specification:mono"
-           id="tspan36301">normally it's coordinatet to dDOS medics, </tspan></tspan><tspan
+           id="tspan36428">normally it's coordinatet to dDOS medics, </tspan></tspan><tspan
          x="31.304688"
          y="222.04492"
-         id="tspan36307"><tspan
+         id="tspan36434"><tspan
            style="font-family:mono;-inkscape-font-specification:mono"
-           id="tspan36305">whitehats, autistics, and all that help</tspan></tspan></text>
+           id="tspan36432">whitehats, autistics, and all that help</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
