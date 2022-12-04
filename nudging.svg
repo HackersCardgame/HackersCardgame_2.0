@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg11953"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="nudging.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11955"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.7652427"
+     inkscape:cx="396.6062"
+     inkscape:cy="561.91323"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs11950" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g61355"
+       transform="rotate(-90,94.415143,123.56426)">
+      <path
+         style="fill:none;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 167.43062,56.545029 C 129.60096,83.219137 109.00976,166.61683 108.21749,205.89909"
+         id="path12047"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 36.304352,56.545029 C 74.134012,83.219137 94.72517,166.61683 95.517437,205.89909"
+         id="path12220"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 21.399666,41.22943 128.393184,30.056648 -88.893678,8.457337 76.743858,10.209242 -67.11289,8.568804 58.14582,9.432029 -50.847996,5.62286 45.148006,7.52826 -37.811689,9.28481 26.631259,21.97253 -12.054096,47.09232"
+         id="path14435" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="65.941261"
+       y="16.893826"
+       id="text14541"><tspan
+         sodipodi:role="line"
+         id="tspan14539"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="65.941261"
+         y="16.893826">Steurbarkeit von Zombis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="87.219963"
+       y="48.608913"
+       id="text18673"><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#008000;stroke-width:0.264583"
+         x="87.219963"
+         y="48.608913"
+         id="tspan24320">positives Nudging (<tspan
+   style="font-weight:bold"
+   id="tspan47388">Zuckerbrot</tspan>)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#008000;stroke-width:0.264583"
+         x="87.219963"
+         y="55.223507"
+         id="tspan35956">(<tspan
+   style="font-weight:bold"
+   id="tspan62987">Nucleus accumbens</tspan> stimulieren)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#008000;stroke-width:0.264583"
+         x="87.219963"
+         y="61.838085"
+         id="tspan24322">* nächstes Bier</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#008000;stroke-width:0.264583"
+         x="87.219963"
+         y="68.452675"
+         id="tspan24324">* nächster kleiner süsser Mensch</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#008000;stroke-width:0.264583"
+         x="87.219963"
+         y="75.067253"
+         id="tspan24326">* nächster Shop</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="82.913383"
+       y="164.35509"
+       id="text18673-6"><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#ff0000;stroke-width:0.264583"
+         x="82.913383"
+         y="164.35509"
+         id="tspan31242">negatives Nudging (<tspan
+   style="font-weight:bold"
+   id="tspan49020">Peitsche</tspan>)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#ff0000;stroke-width:0.264583"
+         x="82.913383"
+         y="170.96968"
+         id="tspan31998">(<tspan
+   style="font-weight:bold"
+   id="tspan64847">Amygdala</tspan> stimulieren)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#ff0000;stroke-width:0.264583"
+         x="82.913383"
+         y="177.58426"
+         id="tspan40060">* nächster häslicher alter Mensch</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#ff0000;stroke-width:0.264583"
+         x="82.913383"
+         y="184.19885"
+         id="tspan40062">* nächster Stau</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#ff0000;stroke-width:0.264583"
+         x="82.913383"
+         y="190.81343"
+         id="tspan40064">* nächster Strafzettel</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#ff0000;stroke-width:0.264583"
+         x="82.913383"
+         y="197.42802"
+         id="tspan32000" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="77.8088"
+       y="27.271591"
+       id="text37744"><tspan
+         sodipodi:role="line"
+         id="tspan37742"
+         style="stroke-width:0.264583"
+         x="77.8088"
+         y="27.271591">Nudging</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="34.710991"
+       y="215.06412"
+       id="text50180"><tspan
+         sodipodi:role="line"
+         id="tspan50178"
+         style="font-size:5.29167px;fill:#ff0000;stroke-width:0.264583"
+         x="34.710991"
+         y="215.06412">bei mir wird nur noch die rote Seite verwendet</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#ff0000;stroke-width:0.264583"
+         x="34.710991"
+         y="221.67871"
+         id="tspan57244">oft auch illegale Schachzüge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="62.872974"
+       y="203.02312"
+       id="text55240"><tspan
+         sodipodi:role="line"
+         id="tspan55238"
+         style="fill:#ff0000;stroke-width:0.264583"
+         x="62.872974"
+         y="203.02312">Nudging Täterschaft psychotsich</tspan></text>
+  </g>
+</svg>
